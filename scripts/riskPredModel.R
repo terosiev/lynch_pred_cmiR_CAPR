@@ -12,7 +12,7 @@ library(survminer)
 library(magrittr)
 
 # Import meta data
-meta.data <- read.csv("phenoData.csv",sep="\t", header=TRUE)
+meta.data <- read.csv("MyData.csv",sep="\t", header=TRUE)
 
 #Rename columns
 meta.data <- meta.data %>% 
