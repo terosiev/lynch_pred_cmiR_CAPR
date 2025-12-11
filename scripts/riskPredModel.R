@@ -95,7 +95,7 @@ ggcoxdiagnostics(full.cox.score, type = "dfbeta",
                  linear.predictions = F, 
                  ggtheme = theme_classic())
 
-# C-miR risk prediction model (unadjusted) cross-validation ----
+# C-miR risk prediction model cross-validation ----
 
 # Set seed
 set.seed(1234)
