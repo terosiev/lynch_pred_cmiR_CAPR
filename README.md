@@ -3,7 +3,3 @@
 
 ## Update
 - Latest: 11.12.2025
-
-## Scripts
-- LASSO-Cox model used for feature selection
-- Internal 5-fold CV to validate the model
